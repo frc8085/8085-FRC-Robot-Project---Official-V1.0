@@ -106,7 +106,6 @@ AddOutputFilter chunkFilter
 		<Item Name="Team Code" Type="Folder">
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
 			<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
-			<Item Name="Compressor With Cylinder 2.vi" Type="VI" URL="../../../../../../Program Files (x86)/National Instruments/LabVIEW 2019/examples/FRC/roboRIO/Pneumatics/Compressor With Cylinder/Compressor With Cylinder 2.vi"/>
 			<Item Name="Chute.vi" Type="VI" URL="../Chute.vi"/>
 			<Item Name="Teleop.vi" Type="VI" URL="../Teleop.vi"/>
 			<Item Name="Disabled.vi" Type="VI" URL="../Disabled.vi"/>
