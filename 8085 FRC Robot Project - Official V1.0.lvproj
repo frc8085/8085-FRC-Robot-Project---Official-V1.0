@@ -107,21 +107,28 @@ AddOutputFilter chunkFilter
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
 			<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
 			<Item Name="Chute.vi" Type="VI" URL="../Chute.vi"/>
+			<Item Name="control_panel.vi" Type="VI" URL="../../../USB from Cliff/558 Custom VIs 2019/control_panel.vi"/>
 			<Item Name="Teleop.vi" Type="VI" URL="../Teleop.vi"/>
 			<Item Name="Disabled.vi" Type="VI" URL="../Disabled.vi"/>
 			<Item Name="Finish.vi" Type="VI" URL="../Finish.vi"/>
 			<Item Name="Periodic Tasks.vi" Type="VI" URL="../Periodic Tasks.vi"/>
 			<Item Name="Robot Global Data.vi" Type="VI" URL="../Robot Global Data.vi"/>
 			<Item Name="Joystick Scaler.vi" Type="VI" URL="../Joystick Scaler.vi"/>
-			<Item Name="Operator.vi" Type="VI" URL="../Operator.vi"/>
-			<Item Name="output.vi" Type="VI" URL="../output.vi"/>
+			<Item Name="Shot.vi" Type="VI" URL="../Shot.vi"/>
 			<Item Name="Get Time.vi" Type="VI" URL="../Get Time.vi"/>
 			<Item Name="Start Timer.vi" Type="VI" URL="../Start Timer.vi"/>
 			<Item Name="Timer Done.vi" Type="VI" URL="../Timer Done.vi"/>
+			<Item Name="testing_simple_motor_on.vi" Type="VI" URL="../testing_simple_motor_on.vi"/>
+			<Item Name="Intake.vi" Type="VI" URL="../Intake.vi"/>
+			<Item Name="Climber.vi" Type="VI" URL="../Climber.vi"/>
+			<Item Name="winch.vi" Type="VI" URL="../winch.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
+			<Item Name="auto_test.vi" Type="VI" URL="../auto_test.vi"/>
 		</Item>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="auto_simple_straight.ctl" Type="VI" URL="../auto_simple_straight.ctl"/>
+		<Item Name="simple_on.ctl" Type="VI" URL="../simple_on.ctl"/>
+		<Item Name="Output.vi" Type="VI" URL="../Output.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Acquire Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Acquire Semaphore.vi"/>
@@ -608,7 +615,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6782B190-04E1-4A41-93AB-3F357B35791E}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">152</Property>
+				<Property Name="Bld_version.build" Type="Int">166</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
