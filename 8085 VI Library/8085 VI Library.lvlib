@@ -10,5 +10,6 @@
 	<Item Name="Joystick Scaler.vi" Type="VI" URL="../Joystick Scaler.vi"/>
 	<Item Name="Output.vi" Type="VI" URL="../Output.vi"/>
 	<Item Name="Shot.vi" Type="VI" URL="../Shot.vi"/>
+	<Item Name="Updated Shot.vi" Type="VI" URL="../Updated Shot.vi"/>
 	<Item Name="winch.vi" Type="VI" URL="../winch.vi"/>
 </Library>
